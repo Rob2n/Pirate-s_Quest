@@ -1,0 +1,115 @@
+5 4 Menu 0
+assets/menu_bkg.png 0 0
+assets/red_ship_m.png 70 170 -90
+assets/blue_ship_m.png 620 630 -90
+assets/yellow_ship_m.png 70 630 -90
+assets/green_ship_m.png 620 170 -90
+assets/button_start.png assets/button_start_hovered.png 231 157 5
+assets/button_options.png assets/button_options_hovered.png 231 257 2
+assets/button_howto.png assets/button_howto_hovered.png 231 357 27
+assets/button_quit.png assets/button_quit_hovered.png 231 457 0
+2 5 Choose_Player 1
+assets/menu_bkg.png 0 0
+assets/brown_panel.png 105 50
+assets/red_banner.png assets/red_banner_h.png 190 140 6
+assets/blue_banner.png assets/blue_banner_h.png 520 400 7
+assets/yellow_banner.png assets/yellow_banner_h.png 190 400 8
+assets/green_banner.png assets/green_banner_h.png 520 140 1
+assets/button_back_l.png assets/button_back_hovered_l.png 270 550 3
+4 4 Game 2
+assets/menu_bkg.png 0 0
+assets/green_ship.png 400 307
+assets/void.png 300 215 0 speed
+assets/void.png 520 45 0 obj
+assets/pause.png assets/pause_hovered.png 30 30 4
+assets/button_inventory.png assets/button_inventory_hovered.png 30 100 9
+assets/quest.png assets/quest_pressed.png 30 170 23
+assets/button_map.png assets/button_map_h.png 30 240 24
+1 3 Options 3
+assets/menu_bkg.png 0 0
+assets/smooth_graphics_off.png assets/smooth_graphics_off_h.png 241 207 11
+assets/volume_max.png assets/volume_max_h.png 241 307 10
+assets/button_back.png assets/button_back_hovered.png 241 430 3
+1 3 Pause 4
+assets/menu_bkg.png 0 0
+assets/button_back.png assets/button_back_hovered.png 241 207 1
+assets/button_options.png assets/button_options_hovered.png 241 307 2
+assets/button_quit.png assets/button_quit_hovered.png 241 407 0
+11 4 Inventory 5
+assets/wood.jpg 0 0
+assets/inventory_panel.png 105 50
+assets/xp_bar.png 153 374
+assets/green_ship_m.png 181 150
+assets/health_bar.png 343 181
+assets/void.png 242 525 0 def
+assets/void.png 408 525 0 att
+assets/void.png 564 525 0 speed
+assets/void.png 465 620 0 token
+assets/void.png 340 620 0 Points:
+assets/food_bar.png 344 291
+assets/button_inventory.png assets/button_inventory_hovered.png 30 100 3
+assets/buttonPlus.png assets/buttonPlus_hovered.png 233 565 20
+assets/buttonPlus.png assets/buttonPlus_hovered.png 395 565 21
+assets/buttonPlus.png assets/buttonPlus_hovered.png 558 565 22
+21 8 Fight 6
+assets/menu_bkg.png 0 400
+assets/green_ship_m.png 170 200
+assets/health_bar.png 130 150
+assets/health_bar.png 580 35
+assets/health_bar.png 460 155
+assets/health_bar.png 580 300
+assets/selected_aim.png 571 45
+assets/void.png 267 250 90
+assets/cannonBall.png 200 250
+assets/cannonBall_m.png 200 250
+assets/crew.png 200 250
+assets/void.png 580 130 -90
+assets/cannonBall.png 635 110
+assets/cannonBall_m.png 635 110
+assets/crew.png 635 110
+assets/void.png 200 178 0 .
+assets/cooldown.png 50 500
+assets/cooldown.png 50 600
+assets/cooldown.png 250 500
+assets/cooldown.png 250 600
+assets/wood_plank.png 200 250
+assets/pause.png assets/pause_hovered.png 30 30 4
+assets/button_canon.png assets/button_canon_pressed.png 50 500 13
+assets/button_mortar.png assets/button_mortar_pressed.png 50 600 14
+assets/button_boarding.png assets/button_boarding_pressed.png 250 500 15
+assets/button_repair.png assets/button_repair_pressed.png 250 600 16
+assets/black_ship.png assets/black_ship_s.png 620 70 17
+assets/black_ship.png assets/black_ship_s.png 500 200 18
+assets/black_ship.png assets/black_ship_s.png 620 330 19
+1 1 Game_over 7
+assets/game_over.png 0 0
+assets/button_quit.png assets/button_quit_hovered.png 241 607 0
+2 1 Quests 8
+assets/parchemin.png 0 0
+assets/void.png 200 200 0 speed
+assets/closer.png assets/closer_pressed.png 30 30 3
+2 1 Map 9
+assets/carte_marbre.png 0 0
+assets/cross.png 400 350
+assets/closer.png assets/closer_pressed.png 30 30 3
+10 0 Cinematic 10
+assets/menu_bkg.png 0 0
+assets/green_ship_m.png -500 170 -90
+assets/blue_ship_m.png -400 270 -90
+assets/yellow_ship_m.png -400 370 -90
+assets/red_ship_m.png -500 470 -90
+assets/black_ship.png -750 220 -90
+assets/black_ship.png -650 320 -90
+assets/black_ship.png -750 420 -90
+assets/void.png 495 680 0 .
+assets/title.png 0 720
+3 0 Boss Cinematic 11
+assets/menu_bkg.png 850 0
+assets/green_ship_m.png 170 -600
+assets/leboss.png 490 -500
+1 2 how_to_play 12
+assets/control.png 0 0
+assets/closer.png assets/closer_pressed.png 10 10 3
+assets/button_next.png assets/button_next_hovered.png 750 15 28
+1 0 Credits 13
+assets/winning.png 0 0
